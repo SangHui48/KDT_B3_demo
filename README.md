@@ -31,6 +31,8 @@
 
 backend와 연결
 7. npm install axios
+8. npm install bootstrap@4.6.0 --save
+
 
 * frontend
     src

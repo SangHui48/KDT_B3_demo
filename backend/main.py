@@ -15,7 +15,7 @@ def greetings():
 # frontend와 연결
 @app.route('/shark', methods=['GET'])
 def shark():
-    return ('This is good Shark🦈!')
+    return ('Shark🦈!!')
 
 if __name__ == "__main__":
     app.run(debug=True)
