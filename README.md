@@ -29,9 +29,10 @@
 5. cd frontend
 6. npm run serve
 
-backend와 연결
+backend와 연결  
 7. npm install axios
 8. npm install bootstrap@4.6.0 --save
+9. npm install bootstarp-vue@2.21.2 --save
 
 
 * frontend
